@@ -39,7 +39,7 @@ photocraft-tablet = { path = "crates/tablet" }
 photocraft-ipp = { path = "crates/ipp" }
 
 # external
-craft-print = { git = "https://github.com/storytold/craft-libs", rev = "3d37da389a3618ab9b76109da11416e9ca4ea719" }
+craft-print = { git = "https://github.com/jesusthehelper-oss/craft-libs", rev = "5be48f712bac194c02f33f3a5a43577121870bc4" }
 craft-docpath = { version = "0.1.0", git = "https://github.com/storytold/craft-libs", rev = "82a24b006eefa036b43c09a67fb9a3fbd17ffe63" }
 thiserror = "2"
 serde = { version = "1", features = ["derive", "rc"] }
